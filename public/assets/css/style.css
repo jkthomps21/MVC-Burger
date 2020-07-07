@@ -1,0 +1,27 @@
+.jumbotron {
+    background-image: url("/assets/img/burger-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#color-text {
+    color: white;
+}
+
+#leftheading {
+    text-align: center;
+}
+
+#rightheading {
+    text-align: center;
+}   
+
+#eatbutton, #throwbutton {
+    float: right;
+}
