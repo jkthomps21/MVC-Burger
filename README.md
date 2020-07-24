@@ -34,3 +34,6 @@ Please note that this project is released with a Contributor Code of Conduct. By
 ## User Info
 This project was created by jkthomps21.
 Please contact them here to report any issues: <a href="mailto:jkthomps21@gmail.com">Report Issues</a>
+
+## Screenshot(s)
+![MVC-Burger Image](https://user-images.githubusercontent.com/49950576/88439581-34728200-cdd1-11ea-9bab-4c7edc993e9b.png)
